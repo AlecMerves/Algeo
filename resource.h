@@ -1,0 +1,14 @@
+#ifndef RESOURCE
+#define RESOURCE
+
+#define ID_FILE_EXIT 9001
+#define ID_FILE_CLEAR 9002
+#define ID_FILE_PRINT 9003
+
+#define ID_MODE_POINTS 9011
+#define ID_MODE_CHAIN 9012
+#define ID_MODE_POLYGON 9013
+
+#define ID_TRIANG_EARCLIP 9021
+
+#endif
