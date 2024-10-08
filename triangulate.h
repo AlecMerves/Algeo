@@ -4,6 +4,7 @@
 #include "geometry.h"
 #include "draw_util.h"
 
+// REMOVE tVertex pointer and just pass tVertex and return new tVertex
 void Triangulate(sframe* frame, tVertex* ptvertices) {
     if (!(*ptvertices)) { return; }
 
